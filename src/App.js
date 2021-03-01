@@ -1,13 +1,10 @@
-
 import './App.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-
+import Body from './components/Body/Body';
 
 function App() {
-
   return (
     <div>
-      <h1>hello world</h1>
+      <Body></Body>
     </div>
   )
 }

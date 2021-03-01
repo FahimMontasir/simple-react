@@ -1,0 +1,6 @@
+.players-section {
+  background-image: linear-gradient(to right, white, rgba(255, 169, 9, 0.432));
+}
+.all-components {
+  overflow-x: hidden;
+}

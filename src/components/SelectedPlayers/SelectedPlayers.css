@@ -1,0 +1,6 @@
+.selected-list-bg {
+  background-image: linear-gradient(to right, white, rgb(236, 235, 233), white);
+}
+.selected-list-bg ul {
+  list-style: none;
+}

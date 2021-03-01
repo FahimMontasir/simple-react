@@ -1,0 +1,76 @@
+[{
+  "id": 1,
+  "name": "Mashrafe Mortaza",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg",
+  "salary": 3038
+}, {
+  "id": 2,
+  "name": "Tamim Iqbal",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg",
+  "salary": 2886
+}, {
+  "id": 3,
+  "name": "Liton Das",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+  "salary": 2420
+}, {
+  "id": 4,
+  "name": "Kagiso Rabada",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg",
+  "salary": 1979
+}, {
+  "id": 5,
+  "name": "Soumya Sarkar",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg",
+  "salary": 1952
+}, {
+  "id": 6,
+  "name": "Sabbir Rahman",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg",
+  "salary": 1756
+}, {
+  "id": 7,
+  "name": "Mahmudullah",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+  "salary": 2093
+}, {
+  "id": 8,
+  "name": "Shakib Al Hasan",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+  "salary": 2734
+}, {
+  "id": 9,
+  "name": "Mohammad Saifuddin",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg",
+  "salary": 1581
+}, {
+  "id": 10,
+  "name": "Martin Guptill",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170731/martin-guptill.jpg",
+  "salary": 2381
+}, {
+  "id": 11,
+  "name": "Kane Williamson",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170733/kane-williamson.jpg",
+  "salary": 2036
+}, {
+  "id": 12,
+  "name": "Ross Taylor",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170729/ross-taylor.jpg",
+  "salary": 2070
+}, {
+  "id": 13,
+  "name": "Trent Boult",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170747/trent-boult.jpg",
+  "salary": 2153
+}, {
+  "id": 14,
+  "name": "Quinton de Kock",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170698/quinton-de-kock.jpg",
+  "salary": 1852
+}, {
+  "id": 15,
+  "name": "Lungi Ngidi",
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170761/lungi-ngidi.jpg",
+  "salary": 2096
+}]
